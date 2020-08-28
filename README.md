@@ -1,2 +1,1 @@
-# TechDev
-Community Repository
+Repositorio creado con el propósito de aprender más tecnología.
